@@ -1,0 +1,6 @@
+﻿Build started at 20:02...
+1>------ Build started: Project: Tyuiu.RogozinaMA.Sprint1.Task0.V2.Test, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Tyuiu.RogozinaMA.Sprint1.Task0.V2.Test -> C:\Users\Prod. By NotStore\source\repos\Tyuiu.RogozinaMA.Sprint1\Tyuiu.RogozinaMA.Sprint1.Task0.V2.Test\bin\Debug\net8.0\Tyuiu.RogozinaMA.Sprint1.Task0.V2.Test.dll
+========== Build: 1 succeeded, 0 failed, 2 up-to-date, 0 skipped ==========
+========== Build completed at 20:02 and took 02,548 seconds ==========
