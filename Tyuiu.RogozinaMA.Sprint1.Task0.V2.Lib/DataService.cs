@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
 using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.RogozinaMA.Sprint1.Task0.V2.Lib
@@ -13,7 +7,7 @@ namespace Tyuiu.RogozinaMA.Sprint1.Task0.V2.Lib
     {
         public double Calculate()
         {
-            return 3 / 3 * 2 + 12 / 4 / 3 - 2;
+            return 3.0 / 3 * 2 + 12.0 / 4 / 3 - 2;
         }
     }
 }
