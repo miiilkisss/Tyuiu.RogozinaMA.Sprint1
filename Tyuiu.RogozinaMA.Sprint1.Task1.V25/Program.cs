@@ -8,7 +8,7 @@ using Tyuiu.RogozinaMA.Sprint1.Task1.V25.Lib;
 
 namespace Tyuiu.RogozinaMA.Sprint1.Task1.V25
 {
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {
@@ -18,7 +18,7 @@ namespace Tyuiu.RogozinaMA.Sprint1.Task1.V25
 
             Console.WriteLine("*********************************************************************");
             Console.WriteLine("* Спринт #1                                                         *");
-            Console.WriteLine("* Тема: Организация ввода\ввыода в консольных приложених            *");
+            Console.WriteLine("* Тема: Организация ввода\\ввыода в консольных приложених            *");
             Console.WriteLine("* Задание #1                                                        *");
             Console.WriteLine("* Вариант #25                                                       *");
             Console.WriteLine("* Выполнила: Рогозина Милана Андреевна | ИСПб-25-1                  *");
