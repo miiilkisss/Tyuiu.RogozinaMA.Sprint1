@@ -61,5 +61,5 @@ namespace Tyuiu.RogozinaMA.Sprint1.Task1.V25.Test
             double res = ds.Calculate(x, y);
             Assert.AreEqual(wait, res);
         }
-    }  
+    }
 }
