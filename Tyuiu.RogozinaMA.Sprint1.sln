@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RogozinaMA.Sprint1.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RogozinaMA.Sprint1.Task1.V25.Lib", "Tyuiu.RogozinaMA.Sprint1.Task1.V25.Lib\Tyuiu.RogozinaMA.Sprint1.Task1.V25.Lib.csproj", "{642B3C8D-8BE5-48E0-8C2A-DA60A4B9E1A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RogoinaMA.Sprint1.Task1.V25.Test", "Tyuiu.RogoinaMA.Sprint1.Task1.V25.Test\Tyuiu.RogoinaMA.Sprint1.Task1.V25.Test.csproj", "{07CC65E8-5618-4841-B082-297A1CCABA29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RogozinaMA.Sprint1.Task1.V25.Test", "Tyuiu.RogoinaMA.Sprint1.Task1.V25.Test\Tyuiu.RogozinaMA.Sprint1.Task1.V25.Test.csproj", "{07CC65E8-5618-4841-B082-297A1CCABA29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

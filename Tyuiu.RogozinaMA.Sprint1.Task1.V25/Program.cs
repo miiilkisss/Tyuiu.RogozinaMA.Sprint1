@@ -8,7 +8,7 @@ using Tyuiu.RogozinaMA.Sprint1.Task1.V25.Lib;
 
 namespace Tyuiu.RogozinaMA.Sprint1.Task1.V25
 {
-    internal class Program 
+    internal class Program  
     {
         static void Main(string[] args)
         {
