@@ -14,4 +14,4 @@ namespace Tyuiu.RogozinaMA.Sprint1.Task3.V16.Lib
             return Math.Round(b, 3);
         }
     }
-}
+} 
