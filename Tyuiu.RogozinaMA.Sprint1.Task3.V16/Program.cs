@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Tyuiu.RogozinaMA.Sprint1.Task3.V16.Lib;
-  
+
 namespace Tyuiu.RogozinaMA.Sprint1.Task3.V16
 {
     internal class Program
@@ -45,8 +45,8 @@ namespace Tyuiu.RogozinaMA.Sprint1.Task3.V16
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            // Вычисление результата через библиотеку
-            double result = ds.Calculate(x1, x2);
+            // Вычисление результата через библиотеку - используем правильное имя метода
+            double result = ds.CoeffOfQuadraticEquation(x1, x2);
             Console.WriteLine($"Коэффициент b квадратного уравнения с корнями {x1} и {x2} = {result:F3}");
 
             Console.ReadLine();
