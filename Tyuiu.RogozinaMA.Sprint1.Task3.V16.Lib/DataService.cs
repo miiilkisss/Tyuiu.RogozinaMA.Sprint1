@@ -4,7 +4,7 @@ using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.RogozinaMA.Sprint1.Task3.V16.Lib
 {
-    public class DataService : ISprint1Task3V16 
+    public class DataService : ISprint1Task3V16
     {
         public double Calculate(double x1, double x2)
         {
