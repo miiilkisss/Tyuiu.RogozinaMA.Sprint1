@@ -12,6 +12,6 @@ namespace Tyuiu.RogozinaMA.Sprint1.Task3.V16.Lib
             // По теореме Виета: b = -(x1 + x2)
             double b = -(x1 + x2);
             return Math.Round(b, 3);
-        }
+        } 
     }
-} 
+}
